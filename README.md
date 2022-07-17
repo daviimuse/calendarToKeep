@@ -1,19 +1,5 @@
-# ANALISI
-
 Il programma deve prendere gli eventi da google calendar e trasformarli in tasks in google keep.
-
-Come linguaggio di programmazione useremo python.
-
 Il programma sarà una console application.
-Divideremo l'app in vari file in base alle azioni che dobbiamo fare.
-
-
-
-FLAG APP:
- - limita da e per una certa data
- - seleziona dati tramite regex
- - 
-
 ### references
 ---
 
